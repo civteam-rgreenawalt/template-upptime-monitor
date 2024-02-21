@@ -3,16 +3,18 @@ owner: civteam-rgreenawalt # Your GitHub organization or username, where this re
 repo: template-upptime-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: JSON Placeholder
-    url: https://jsonplaceholder.typicode.com
-  - name: FreecodeCamp
-    url: https://www.freecodecamp.org
+  - name: Sparc
+    url: https://sparc.concorde2000.com
+  - name: Dodmets
+    url: https://dodmets.com
+  - name: Af Dodmets
+    url: https://af.dodmets.com
+  - name: Concorde2000
+    url: https://concorde2000.com
+  - name: Civteam
+    url: https://civteam.com
+  - name: Drivers Clearinhouse
+    url: https://www.driversclearinghouse.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
