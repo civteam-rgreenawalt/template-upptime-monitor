@@ -9,6 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: JSON Placeholder
+    url: https://jsonplaceholder.typicode.com
+  - name: FreecodeCamp
+    url: https://www.freecodecamp.org
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
