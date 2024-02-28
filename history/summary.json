@@ -40,19 +40,19 @@
     "url": "https://af.dodmets.com",
     "icon": "https://icons.duckduckgo.com/ip3/af.dodmets.com.ico",
     "slug": "af-dodmets",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 227,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 281,
+    "timeDay": 230,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-02-28": 0
+      "2024-02-28": 52
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 328,
+      "2024-02-28": 379,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
