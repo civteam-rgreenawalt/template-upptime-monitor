@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sparc.concorde2000.com.ico",
     "slug": "sparc",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.54%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 434,
     "timeDay": 1647,
     "timeWeek": 664,
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-03-07": 49
+      "2024-03-07": 95
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dodmets.com.ico",
     "slug": "dodmets",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.78%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 313,
     "timeDay": 185,
     "timeWeek": 359,
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 46
     }
   },
   {
@@ -44,18 +44,19 @@
     "url": "https://af.dodmets.com",
     "icon": "https://icons.duckduckgo.com/ip3/af.dodmets.com.ico",
     "slug": "af-dodmets",
-    "status": "up",
-    "uptime": "89.86%",
+    "status": "down",
+    "uptime": "89.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "79.76%",
-    "uptimeMonth": "89.86%",
-    "uptimeYear": "89.86%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "89.89%",
     "time": 1704,
     "timeDay": 13537,
     "timeWeek": 3666,
     "timeMonth": 1704,
     "timeYear": 1704,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2024-03-04": 1035,
       "2024-03-03": 1005,
       "2024-02-28": 52
@@ -78,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 165,
+      "2024-03-07": 211,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
