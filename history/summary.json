@@ -44,9 +44,9 @@
     "url": "https://af.dodmets.com",
     "icon": "https://icons.duckduckgo.com/ip3/af.dodmets.com.ico",
     "slug": "af-dodmets",
-    "status": "up",
+    "status": "down",
     "uptime": "93.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.49%",
     "uptimeYear": "93.49%",
@@ -56,6 +56,7 @@
     "timeMonth": 1603,
     "timeYear": 1603,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-03-07": 89,
       "2024-03-04": 1035,
       "2024-03-03": 1005,
@@ -79,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 51,
+      "2024-03-16": 78,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
